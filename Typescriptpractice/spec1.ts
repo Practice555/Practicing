@@ -165,14 +165,5 @@ describe('getting title', ()=> {
         console.log(text)
 
     })
-
-    //it('handling images',async()=>{
-        //let logoimage = element(by.css("img[src='images/rs_logo.png']"));
-        //await expect(logoimage.isDisplayed()).toBe(true);
-        //console.log("Logo image available in page");
-
-
-
-    //})
     
 })
